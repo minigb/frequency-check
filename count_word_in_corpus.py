@@ -10,8 +10,11 @@ import ahocorasick
 
 
 def main():
+    """
+    Usage: python count_word_in_corpus.py
+    """
     parser = argparse.ArgumentParser()
-    parser.add_argument("-i", "--input_json_name", required = True, help = "Path to the directory of the artist json file")
+    parser.add_argument("-i", "--input_json_name", required = True, help = "Path to the directory of the target json file")
     parser.add_argument("-o", "--output_csv_name", required = True, help = "Path to the directory to save the result")
     parser.add_argument("-c", "--corpus_dir", default = None, help = "Path to the corpus file")
     args = parser.parse_args()
@@ -30,11 +33,11 @@ def main():
     output_csv_name = args.output_csv_name
     assert output_csv_name.endswith('.csv'), f'Output file name should end with .csv'
 
-    # Get json file containing artist
+    # Get json file containing target
     # TODO(minigb): This assumes that it is a json file
-    print('Reading artist list')
+    print('Reading target list')
     with open(input_json_name, 'r') as file:
-        artist_list = json.load(file)
+        target_list = json.load(file)
     print('Done')
 
     # Get corpus file
@@ -46,29 +49,29 @@ def main():
     print('Done')
 
     A = ahocorasick.Automaton()
-    for _, artist in enumerate(artist_list):
-        A.add_word(artist, artist)
+    for _, target in enumerate(target_list):
+        A.add_word(target, target)
     A.make_automaton()
 
-    total_count = {artist : 0 for artist in artist_list}
-    n_of_docs = {artist : 0 for artist in artist_list}
+    total_count = {target : 0 for target in target_list}
+    n_of_docs = {target : 0 for target in target_list}
 
     for text in tqdm(corpus_text_list):
-        artist_count_in_this_text = defaultdict(int)
-        for _, artist in A.iter(text):
-            artist_count_in_this_text[artist] += 1
-        for artist, count in artist_count_in_this_text.items():
-            total_count[artist] += count
-            n_of_docs[artist] += 1
+        target_count_in_this_text = defaultdict(int)
+        for _, target in A.iter(text):
+            target_count_in_this_text[target] += 1
+        for target, count in target_count_in_this_text.items():
+            total_count[target] += count
+            n_of_docs[target] += 1
 
     result_df = pd.DataFrame({
-        'artist': list(total_count.keys()),
+        'target': list(total_count.keys()),
         'total_count': list(total_count.values()),
         'num_of_documents': list(n_of_docs.values())
     })
     
     result_df.sort_values(by = 'total_count', ascending = False, inplace = True)
-    result_df.set_index('artist', inplace = True)
+    result_df.set_index('target', inplace = True)
     result_df.to_csv(args.output_csv_name)
 
 if __name__ == "__main__":
