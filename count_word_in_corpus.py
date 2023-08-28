@@ -11,7 +11,16 @@ import ahocorasick
 
 def main():
     """
-    Usage: python count_word_in_corpus.py
+    Usage:
+        $ python count_word_in_corpus.py -i <path_to_targets_json_file> -o <path_to_save_output_csv> [-c <path_to_corpus_file>]
+
+    Arguments:
+        -i, --input_dir          : Path to the JSON file containing the list of targets.
+        -o, --output_file_name   : Path where the result CSV will be saved.
+        -c, --corpus_dir         : (Optional) Path to the corpus file. Defaults to 'dataset/music_corpus.jsonl' if not provided.
+
+    Example:
+        $ python count_word_in_corpus.py -i targets.json -o results.csv -c music_corpus.jsonl
     """
     parser = argparse.ArgumentParser()
     parser.add_argument("-i", "--input_json_name", required = True, help = "Path to the directory of the target json file")
