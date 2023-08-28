@@ -1,0 +1,314 @@
+,query,num_of_occurances,num_of_documents,num_of_targets
+0,New York City,112968,90027,1
+1,Queen,110206,57753,14
+2,Madonna,42190,17515,4
+3,Metallica,33857,15804,7
+4,Led Zeppelin,25668,14752,11
+5,David Bowie,25051,15204,1
+6,Eminem,21527,9892,1
+7,Johnny Cash,20623,10655,2
+8,The Rolling Stones,20259,10915,7
+9,Miles Davis,19107,12533,6
+10,Iron Maiden,17380,9087,6
+11,Black Sabbath,17348,10643,3
+12,Willie Nelson,17336,9017,18
+13,Sting,17287,8633,7
+14,Neil Young,16785,10045,1
+15,Slayer,16562,8521,7
+16,The Beach Boys,16457,6299,1
+17,Bon Jovi,15503,6789,1
+18,Britney Spears,14848,8635,23
+19,Megadeth,14514,6454,2
+20,Mariah Carey,13570,7182,4
+21,Cher,13028,6461,1
+22,Hank Williams,13009,7616,1
+23,Dio,12715,5481,12
+24,Judas Priest,11428,5854,2
+25,Dolly Parton,11250,6425,1
+26,Bob Marley,11102,6880,3
+27,Saxon,10892,5105,1
+28,Billy Joel,10727,5223,1
+29,Odyssey,10463,5961,1
+30,Ozzy Osbourne,10355,6139,2
+31,ABBA,10331,5265,3
+32,Christina Aguilera,9899,5709,5
+33,Barbra Streisand,9453,5133,1
+34,Blondie,9274,4794,1
+35,Bee Gees,9085,4858,1
+36,Janet Jackson,9020,5025,7
+37,Dr. Dre,8553,5193,1
+38,50 Cent,8508,4833,2
+39,Anthrax,8439,3840,4
+40,Public Enemy,7863,4097,18
+41,John Lee Hooker,7698,3683,11
+42,Jethro Tull,7519,3579,7
+43,Scorpions,7335,3070,1
+44,Waylon Jennings,7252,3655,1
+45,Beastie Boys,7220,4382,19
+46,George Jones,7183,4082,1
+47,Kate Bush,7078,3779,1
+48,Survivor,6811,3494,7
+49,Motörhead,6740,3440,3
+50,Lauryn Hill,6576,2725,3
+51,Danzig,6422,3035,2
+52,Jerry Lee Lewis,6224,3602,1
+53,AC/DC,5819,2578,2
+54,Chic,5729,3037,1
+55,Alanis Morissette,5703,2956,7
+56,Ice Cube,5669,3425,1
+57,Donna Summer,5648,3376,3
+58,Sarah Vaughan,5583,3210,1
+59,Busta Rhymes,5544,3578,1
+60,Jennifer Lopez,5523,3351,6
+61,Vince Gill,5494,2948,14
+62,Shania Twain,5326,2472,2
+63,Kenny Rogers,5275,3017,1
+64,Wu-Tang Clan,5269,3528,4
+65,Gregory Isaacs,5171,1659,2
+66,Spice Girls,5154,2916,1
+67,Loretta Lynn,5152,2740,1
+68,2Pac,5143,2378,1
+69,Def Leppard,4994,3094,3
+70,Reba McEntire,4961,2461,1
+71,George Strait,4941,2285,6
+72,Robert Johnson,4770,3455,17
+73,Lionel Hampton,4741,3067,4
+74,Dexter Gordon,4724,2217,6
+75,Garth Brooks,4658,2555,1
+76,Destiny's Child,4638,1759,10
+77,Guns N' Roses,4522,1939,3
+79,Aaliyah,4501,2242,1
+78,Dennis Brown,4501,1512,5
+80,Ani DiFranco,4353,1575,6
+81,Simple Minds,4323,2224,7
+82,Cypress Hill,4307,2261,7
+83,Accept,4259,1893,1
+84,Coleman Hawkins,4047,2457,18
+85,The Prodigy,4043,2146,1
+86,The Supremes,4007,2426,1
+87,Rage Against the Machine,4000,2943,5
+88,Brad Paisley,3933,1808,13
+89,The Stone Roses,3839,1719,8
+90,Joe Henderson,3739,2119,6
+91,Faith Hill,3675,2021,1
+92,Abigail,3621,1902,1
+93,Jimmy Cliff,3534,1425,2
+94,"Earth, Wind & Fire",3507,1418,4
+95,Boz Scaggs,3361,1624,1
+96,De La Soul,3318,2228,3
+97,A Tribe Called Quest,3298,2168,20
+98,Céline Dion,3295,1108,3
+99,Wyclef Jean,3268,2193,2
+100,Armin van Buuren,3249,1889,1
+101,Tony Williams,3194,1843,8
+102,Joe Lovano,3132,1769,13
+103,Bobby Bare,3005,1247,1
+104,Gram Parsons,2961,2086,1
+105,Rick Springfield,2960,1098,1
+106,Lester Young,2906,1978,1
+107,Blind Guardian,2905,1194,1
+108,Branford Marsalis,2878,1652,1
+109,Simply Red,2865,1323,9
+110,Patty Loveless,2847,1280,1
+111,Patsy Cline,2804,1973,1
+112,Gamma Ray,2728,1034,1
+113,Steve Reich,2652,2000,1
+114,Burning Spear,2478,988,18
+115,Charles Lloyd,2461,1072,1
+116,Ladysmith Black Mambazo,2451,1060,1
+117,Morphine,2399,1067,9
+118,Tavares,2381,1424,1
+119,Mandy Moore,2340,1238,9
+120,John Anderson,2314,1011,1
+121,The Statler Brothers,2233,796,1
+122,Peter Tosh,2225,1126,6
+123,Clifton Chenier,2223,921,12
+124,P!nk,2146,641,1
+125,Living Colour,2142,1161,1
+126,Albert Collins,2126,1174,2
+127,Travis Tritt,2090,937,1
+128,Dark Tranquillity,1976,904,6
+129,Billy Squier,1915,726,1
+130,Freddie McGregor,1801,659,2
+131,King Tubby,1701,966,2
+132,Village People,1700,971,3
+133,Suzy Bogguss,1673,684,1
+134,Desmond Dekker,1660,612,3
+135,Daniel Barenboim,1659,1270,2
+136,Gloria Gaynor,1655,981,4
+137,Magic Slim,1644,465,2
+138,Floyd Cramer,1627,850,1
+139,Johnny Paycheck,1588,729,1
+140,Falconer,1569,885,1
+141,Coal Chamber,1568,655,1
+142,Fletcher Henderson,1530,1326,2
+143,Heatwave,1522,796,2
+144,James Carter,1478,610,9
+145,Tom Tom Club,1407,659,1
+146,Dazzle,1405,722,1
+147,Billy Ocean,1356,663,1
+148,Osibisa,1348,592,1
+149,Clarence Carter,1338,542,1
+150,B.J. Thomas,1245,502,1
+151,Sammy Kershaw,1233,535,1
+152,Coroner,1226,665,1
+153,Ashford & Simpson,1151,444,1
+154,Buckwheat Zydeco,1127,421,10
+155,Bob Marley & The Wailers,998,419,32
+156,Run-DMC,971,751,1
+157,Marcia Griffiths,961,419,1
+158,Ini Kamoze,918,293,3
+159,Bronski Beat,903,493,1
+160,Meco,866,324,1
+161,"Evelyn ""Champagne"" King",865,319,1
+162,Kelly Joe Phelps,858,317,10
+163,The Heptones,845,342,1
+164,Cheryl Lynn,840,374,1
+165,New Bomb Turks,828,308,12
+166,Emilio Estefan,821,696,1
+167,The Kentucky Headhunters,799,325,1
+168,Skream,791,489,1
+169,Johnny Rodriguez,772,325,1
+170,Pras,756,397,1
+171,The Three Degrees,752,368,1
+172,Gibson Brothers,696,287,5
+173,Stevie Ray Vaughan & Double Trouble,645,123,10
+174,Peter Brown,643,386,2
+175,Prince Buster,620,431,7
+176,Young MC,567,297,2
+177,The Tokens,530,305,1
+178,Alfred Brendel,508,353,2
+179,Billie Jo Spears,484,254,1
+180,KC and the Sunshine Band,483,424,8
+181,The Trammps,469,229,3
+182,Carl Carlton,466,240,1
+183,Terell Stafford,463,226,1
+184,The Sugarhill Gang,458,272,1
+185,Amii Stewart,446,265,1
+186,The Ethiopians,434,169,1
+187,George McCrae,413,245,1
+188,Patrick Cowley,363,186,1
+189,The Ambassador,356,206,1
+190,Johnny Tillotson,347,201,1
+191,Silver Convention,328,204,1
+192,Bob Mintzer Big Band,326,104,1
+193,Alicia Bridges,306,142,1
+194,Hugh Mundell,295,111,1
+195,Peaches & Herb,293,110,1
+196,Miquel Brown,288,139,1
+197,Kendalls,280,108,1
+198,Juilliard String Quartet,279,199,1
+199,Pryda,277,103,1
+200,Larry Boone,258,170,1
+201,The Tymes,254,117,1
+202,"Henry ""Red"" Allen",253,91,4
+203,Anita Ward,246,148,1
+204,Carl Douglas,221,167,2
+205,Evelyn Thomas,206,101,3
+206,Radu Lupu,197,169,1
+207,The Exciters,195,128,1
+208,Ray Peterson,189,125,1
+209,Temper Temper,174,95,1
+210,Empire Brass,170,99,1
+211,Jacob's Dream,161,58,1
+212,The Clark Family Experience,133,55,1
+213,Hot Toddy,117,60,12
+214,Javier Perianes,109,38,1
+215,Jimmie Skinner,109,100,1
+216,Johnny Preston,78,73,1
+217,Harold Melvin & The Blue Notes,76,51,1
+218,Shirley & Company,76,29,1
+219,Ottawan,74,71,4
+220,Karl Denver,66,65,1
+221,Archie Bell & The Drells,49,20,1
+222,Matthias Kirschnereit,47,10,1
+223,Takako Nishizaki,40,14,1
+224,Love & Kisses,37,26,1
+225,Tvangeste,36,24,1
+226,David Christie,34,24,2
+227,Mothers Pride,33,23,1
+228,"Today, Tomorrow, Forever",32,14,1
+229,Magic Slim & The Teardrops,30,30,9
+230,LTN,20,12,1
+231,LaToya Jackson,20,20,2
+232,Boney M. 2000,19,18,1
+233,Royal Northern College of Music Wind Orchestra,15,8,1
+234,Buckwheat Zydeco Ils Sont Partis,15,5,2
+236,Bihler,12,4,1
+235,Bob Seger & The Silver Bullet Band,12,12,1
+237,Afrika Bambaataa & The Soul Sonic Force,11,11,1
+239,Connie Hall,10,10,1
+238,Branford Marsalis Trio,10,9,7
+240,Alec Costandinos,7,7,1
+241,Boney M.,4,4,3
+242,G.Q.,3,2,1
+243,Van McCoy & The Soul City Symphony,1,1,1
+287,Rick Dees And His Cast Of Idiots,0,0,1
+293,Nicholas Ward & Northern Chamber Orchestra,0,0,8
+292,Nina Martinique,0,0,1
+291,"Aretha Franklin, Carole King, Céline Dion, Gloria Estefan, Mariah Carey & Shania Twain",0,0,1
+290,Oscar P & FNX OMAR,0,0,1
+289,Quiet Resonance,0,0,1
+288,Regina Belle & Peabo Bryson,0,0,1
+283,3LW featuring NAS,0,0,1
+286,Joris Teepe Quintet,0,0,1
+285,Robert Downey Jr. And Sting,0,0,1
+284,"Johnny O'Neal, Dave Young & Terry Clarke",0,0,1
+295,Barrington Levy & Bounty Killer,0,0,1
+282,Clark Rundell & Royal Northern College of Music Wind Orchestra,0,0,4
+281,Claudio Abbado & Orchestra Mozart,0,0,1
+280,Cru Thik & Ty Gracie,0,0,1
+294,"Babyface, Mariah Carey, Kenny G & Sheila E.",0,0,1
+298,Maurice André & Jean-François Paillard & Jean-François Pailla,0,0,2
+296,Melodía Derelajación,0,0,1
+305,"Christina Aguilera, Lil' Kim, Mýa & P!nk",0,0,3
+311,"Juilliard String Quartet, Robert Mann, Joel Smirnoff, Samuel Rhodes & Joel Krosnick",0,0,11
+310,Junia Walker AllStars,0,0,1
+309,Jxctis,0,0,1
+308,"Kazimierz Kord, Warsaw Philharmonic Orchestra, Warsaw National Philharmonic Orchestra & Kaja Danczowska",0,0,1
+307,Bob Marley & Funkstar De Luxe,0,0,1
+306,Keppra & Stackhash,0,0,1
+304,Leonard Bernstein & Los Angeles Philharmonic,0,0,2
+297,Big Youth & Dennis Brown,0,0,1
+303,"Lipps, Inc.",0,0,1
+302,Los Angeles Philharmonic & Leonard Bernstein,0,0,3
+301,Lubo Kirov,0,0,1
+300,Luke Miltenburg,0,0,1
+299,Marzian,0,0,1
+278,DJ's Z-Trip & Radar,0,0,1
+279,DJ 20 & 20 Feat. Kevin Hart & Various Artists,0,0,1
+275,Dennis Brown & Bongo Herman,0,0,1
+277,"Dame Joan Sutherland, Richard Bonynge, London Symphony Orchestra, Sherrill Milnes, Christian Du Plessis, John Gibbs & Riccardo Cassinelli",0,0,1
+251,Udo Wachtveitl & Burchard Dabinnus,0,0,1
+257,Johannes Ritzkowsky & Wolfgang Swallisch,0,0,1
+256,André Previn & London Symphony Orchestra,0,0,1
+255,Leonard Bernstein & Israel Philharmonic Orchestra,0,0,2
+254,Chicago Symphony Orchestra & Daniel Barenboim,0,0,3
+253,"Ahmed Abdullah, Marshall Allen, Clifford Barbaro, John Gilmore, Gilmore, Tyrone Hill, Ron Mcbee, Sun Ra, Sun Ra Arkestra, Jorge Silva & June Tyson",0,0,1
+252,Sir Neville Marriner & Academy of St Martin in the Fields,0,0,2
+250,Academy of St Martin in the Fields & Sir Neville Marriner,0,0,9
+276,David Morales & The Face,0,0,1
+249,Tobi Kreis,0,0,1
+248,Timothy Reynish & Royal Northern College of Music Wind Orchestra,0,0,1
+247,Whitney Houston And Enrique Iglesias,0,0,1
+246,"Taverner Choir, Taverner Consort & Taverner Players",0,0,1
+245,Zydecajun & Wayne Toups,0,0,1
+244,Andrea Bocelli & Céline Dion,0,0,1
+258,Jeroen van Veen & Sandra van Veen,0,0,1
+259,Bounty Killer & Fugees,0,0,2
+260,"Ice Cube, Mack 10 & Ms. Toi",0,0,1
+261,"Heinz Holliger, Thomas Zehetmair, Massimo Polidori & Andreas Erismann",0,0,1
+262,Heinz Holliger & Camerata Bern,0,0,9
+263,Gunther Hasselmann,0,0,7
+264,"Gitti Pirner, Johannes Ritzkowsky & Wolfgang Swallisch",0,0,1
+265,Gewandhausorchester & Kurt Masur,0,0,1
+266,George S. Clinton & Morphine,0,0,1
+267,Gabriel Marchisio,0,0,1
+268,"Freddie McGregor, Gregory Isaacs & Ninjaman",0,0,1
+269,Federico Procopio,0,0,1
+270,"English Chamber Orchestra, Leonard Slatkin & José Luis Garcia",0,0,7
+271,E. Power Biggs & Vittorio Negri,0,0,1
+272,Don Armando's 2nd Ave. Rhumba Band,0,0,1
+273,Disco-Tex & His Sex-O-Lettes,0,0,1
+274,Dirt featuring Epsilon,0,0,1
+312,ram jam world,0,0,1
