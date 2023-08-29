@@ -1,0 +1,1020 @@
+target,total_count,num_of_documents
+pi,17752433,3465136
+tar,8404379,2384332
+sho,6007655,1802174
+poi,2344926,984819
+ney,1901114,745688
+organ,1799177,758606
+tres,1180391,494907
+ching,974736,574511
+guitar,624098,175890
+bass,603944,259416
+venu,574699,253257
+nai,555708,279315
+bell,550586,274954
+yu,535140,195993
+piri,406638,212815
+oud,359164,192687
+tiple,355463,219317
+thon,319887,156863
+chap,298587,151500
+horn,275005,134244
+piano,231661,94556
+effects,221506,120506
+lute,209100,124835
+ugal,185071,82581
+harp,182182,109507
+tef,165536,97877
+cello,157216,75845
+viola,157021,80882
+tape,143649,74383
+keyboard,142139,71734
+jing,128444,58033
+violin,115080,43748
+percussion,97462,58177
+tible,96277,63156
+riq,87178,51928
+udu,71178,38239
+bass guitar,62189,39019
+trumpet,60448,32934
+saxophone,56919,30247
+bones,48693,27351
+flute,48689,25163
+guan,45244,20540
+jug,44532,25059
+strings,44253,23317
+gong,43394,19594
+buk,40626,22570
+limbe,40626,24748
+triangle,37704,17785
+clarinet,36622,15840
+synthesizer,35642,19704
+igil,34586,20619
+brass,34487,22255
+anvil,32873,17007
+acoustic guitar,31645,18919
+suka,31132,13799
+electric guitar,31009,17531
+reeds,30645,13436
+daf,27471,12415
+whistle,23374,14228
+trombone,23295,14310
+zill,21362,7709
+erhu,19884,11213
+fiddle,19722,10689
+recorder,19068,11105
+koto,17915,8626
+harmonica,17532,12325
+dhol,16964,10629
+dizi,16238,10827
+mandolin,16204,9693
+accordion,16038,9753
+banjo,15300,9197
+serpent,14422,8283
+oboe,14409,7983
+ruan,13176,7015
+tenor saxophone,13142,10105
+tuba,12555,7592
+double bass,12109,8233
+sitar,11674,7184
+sheng,11158,5712
+harpsichord,10988,5089
+kora,10571,5951
+bassoon,10336,5232
+regal,10237,7215
+steel guitar,10043,6781
+string quartet,9710,5112
+conch,9496,5535
+alto saxophone,8668,6593
+antara,8547,4697
+tabla,7854,5364
+continuum,7610,5047
+berda,7053,3615
+claves,6897,4369
+chande,6776,4384
+turntable,6661,4054
+cymbal,6573,3885
+Moog,6110,3116
+sampler,5847,3925
+bombarde,5823,4568
+tambourine,5537,4471
+typewriter,5391,3234
+saz,5307,3477
+electric piano,5175,4006
+cornet,5174,3234
+pipe organ,5089,3828
+bass clarinet,4958,3383
+timpani,4842,3235
+khim,4837,2745
+vibraphone,4822,3781
+repeater,4769,2720
+brushes,4763,3456
+woodwind,4725,3413
+tanbur,4661,2231
+ebow,4645,2384
+bagpipe,4579,2416
+drum machine,4374,3102
+disk drive,4339,2073
+baritone saxophone,4339,3743
+bayan,4312,2246
+Hammond organ,4289,3276
+piccolo,4249,3088
+classical guitar,4201,2675
+slide guitar,4137,3199
+nabal,4110,1974
+ukulele,3891,2476
+zarb,3854,1588
+daire,3823,2324
+flugelhorn,3821,2997
+ratchet,3749,2198
+wot,3684,2093
+congas,3632,2952
+French horn,3615,2644
+marimba,3563,2330
+soprano saxophone,3529,2847
+bugle,3455,1808
+slapstick,3196,2667
+bass drum,3195,2292
+lyre,3171,1826
+pipa,3140,1696
+other instruments,3135,2817
+pedal steel guitar,3133,2473
+xun,3108,1563
+harmonium,2920,2055
+xiao,2844,1570
+carillon,2629,975
+chimes,2582,1869
+taphon,2540,1475
+madal,2448,1308
+kaval,2433,1596
+grand piano,2408,1897
+spoons,2365,1766
+glockenspiel,2287,1858
+krap,2284,1128
+bangu,2225,1480
+snare drum,2202,1657
+veena,2196,1139
+barbat,2185,1453
+bolon,2141,919
+xylophone,2106,1586
+wind instruments,2043,1647
+bouzouki,1911,1311
+melodica,1905,1614
+gamelan,1876,650
+siku,1838,1176
+chacha,1810,965
+zither,1809,930
+bongos,1729,1423
+quena,1727,1116
+mbira,1669,896
+spinet,1668,523
+clavinet,1648,1396
+vacuum cleaner,1643,1125
+saw u,1628,1507
+handclaps,1611,793
+bass trombone,1554,1212
+fife,1550,923
+hard disk drive,1465,928
+theremin,1429,882
+vocoder,1426,998
+piano trio,1381,1010
+alto flute,1374,998
+tap dance,1372,966
+mellotron,1372,1136
+cowbell,1317,1002
+lap steel guitar,1308,1135
+tulum,1305,792
+celesta,1280,1002
+concertina,1278,830
+shakers,1263,857
+clapper,1253,809
+rehu,1238,852
+euphonium,1234,704
+taiko,1234,589
+nguru,1195,742
+maracas,1193,980
+tabor,1123,625
+quinto,1098,660
+EWI,1098,683
+tin whistle,1095,765
+cuatro,1081,653
+timbales,1050,825
+hi-hat,1046,717
+contrabassoon,1029,834
+vielle,1020,644
+wood block,1015,915
+cor anglais,990,771
+virginal,984,741
+nagak,959,590
+bazooka,938,623
+autoharp,935,737
+viola da gamba,932,498
+yehu,911,520
+didgeridoo,866,572
+electronic instruments,865,724
+Minimoog,857,581
+baritone guitar,849,666
+danso,829,552
+kazoo,806,537
+syrinx,793,322
+fretless bass,776,662
+tumbi,773,471
+floppy disk drive,772,481
+electric violin,757,572
+bandura,751,156
+akete,750,433
+string trio,748,573
+flamenco guitar,734,505
+shakuhachi,734,370
+djembe,721,465
+washboard,713,508
+bass flute,702,440
+theatre organ,695,485
+ocarina,661,449
+gehu,660,422
+fortepiano,653,346
+Rhodes piano,647,538
+mandola,642,463
+analog synthesizer,640,449
+Wurlitzer electric piano,631,517
+string quintet,625,470
+clavichord,615,377
+ashiko,606,319
+cornett,603,254
+calabash,602,405
+electronic organ,596,452
+davul,594,384
+bodhrán,594,397
+sarod,569,346
+electric bass guitar,558,486
+resonator guitar,550,401
+calliope,540,361
+tubular bells,522,438
+tambura,521,326
+uilleann pipes,519,369
+prepared piano,518,338
+piano duo,518,371
+shawm,509,285
+sarangi,508,305
+biwa,508,325
+upright piano,507,414
+shamisen,507,304
+castanets,499,414
+kös,497,285
+tom-tom,493,406
+rebec,485,343
+vihuela,470,208
+idiophone,466,274
+surdo,464,235
+saxophone quartet,464,349
+setar,464,282
+balalaika,457,275
+hammered dulcimer,452,339
+mridangam,449,227
+keytar,446,294
+duduk,445,281
+viola d'amore,445,180
+shofar,436,211
+krar,430,299
+toy piano,422,299
+orphica,416,317
+guitar synthesizer,414,332
+charango,413,228
+guban,410,227
+cimbalom,408,217
+Pianet,406,221
+handbell,398,229
+button accordion,397,238
+sousaphone,384,240
+theorbo,383,232
+helicon,379,233
+segunda,377,295
+talking drum,374,290
+cittern,368,223
+piano quartet,367,279
+electric sitar,366,297
+kantele,358,154
+basset horn,357,161
+valve trombone,353,308
+bass pedals,345,279
+bass saxophone,344,241
+frame drum,342,242
+sabar,342,230
+mellophone,335,204
+mandocello,335,232
+primero,334,247
+mouth organ,328,245
+piccolo trumpet,328,256
+guqin,328,170
+hummel,326,218
+violone,324,159
+baryton,323,170
+piano four hands,322,247
+contrabass clarinet,322,242
+transverse flute,316,216
+gralla,315,162
+musical saw,313,208
+reed organ,311,220
+12 string guitar,310,272
+tenor guitar,307,213
+wind chime,307,250
+zurna,304,199
+double reed,302,200
+güiro,300,214
+bass viol,299,205
+gaida,296,172
+baritone horn,293,222
+oboe d'amore,290,180
+tenor trombone,289,189
+balafon,287,158
+piano accordion,284,225
+arrabel,281,136
+alto clarinet,279,162
+kanun,276,204
+bīn,275,193
+steelpan,275,171
+berimbau,271,142
+low whistle,269,201
+tenor banjo,268,195
+tubon,266,140
+huqin,265,194
+guzheng,263,148
+suona,262,175
+tanpura,261,153
+shehnai,260,156
+santur,257,160
+bass synthesizer,247,210
+keyboard bass,246,214
+cajón,245,169
+acoustic bass guitar,243,210
+cavaquinho,237,136
+barrel organ,235,159
+bansuri,233,156
+psaltery,231,156
+ondes Martenot,231,110
+E-flat clarinet,230,200
+pan flute,229,180
+finger snaps,227,144
+gusli,219,134
+tack piano,213,172
+violin family,213,126
+crotales,210,164
+ghatam,208,118
+natural horn,207,117
+janggu,207,113
+khene,207,118
+samica,206,138
+thavil,205,152
+nyckelharpa,204,129
+rebab,204,132
+tinya,204,165
+brač,200,117
+glass harmonica,198,132
+caixa,198,98
+Portuguese guitar,197,125
+dholak,196,149
+chalumeau,196,79
+tzoura,193,128
+gizmo,192,157
+membranophone,192,145
+bağlama,191,120
+finger cymbals,191,172
+hulusi,190,40
+bandoneón,190,132
+electric harp,186,131
+flageolet,183,99
+sackbut,181,108
+Appalachian dulcimer,180,115
+chamberlin,178,132
+bendir,175,135
+Hawaiian guitar,175,143
+omnichord,174,156
+cabasa,173,158
+suling,173,99
+musical bow,171,85
+santoor,169,107
+rubab,168,107
+bajo sexto,167,108
+bass trumpet,165,107
+sopranino saxophone,164,134
+kettle drum,162,136
+archtop guitar,161,104
+chamber organ,157,119
+concert flute,155,106
+metallophone,155,120
+tube zither,154,51
+bandurria,151,75
+darbuka,150,127
+ophicleide,150,82
+rammana,148,77
+harp guitar,146,91
+string synthesizer,146,119
+crumhorn,146,104
+free reed,145,78
+citole,144,19
+Great Highland bagpipe,144,109
+Wagner tuba,144,65
+five-string banjo,144,112
+talkbox,143,134
+alphorn,143,73
+sarrusophone,143,49
+portative,141,87
+garmon,141,43
+sistrum,141,86
+kokle,138,37
+dohol,137,73
+kartal,137,87
+natural trumpet,136,61
+bass harmonica,134,115
+temple blocks,133,118
+kithara,133,75
+baroque guitar,130,88
+čelo,129,88
+German harp,129,109
+chromatic harmonica,128,83
+electric cello,126,104
+vibraslap,125,100
+angklung,125,57
+gayageum,124,66
+Lyricon,124,87
+synclavier,124,98
+vuvuzela,123,57
+wooden fish,122,100
+duck call,122,68
+gittern,122,37
+bullroarer,122,65
+pocket trumpet,121,107
+nadaswaram,119,68
+bowed string instruments,119,103
+goblet drum,119,81
+basset clarinet,117,45
+bonang,117,56
+lute family,114,94
+musical box,114,96
+contrabass flute,114,38
+surbahar,114,62
+Irish flute,114,96
+yangqin,113,69
+voice synthesizer,112,107
+kanjira,109,85
+txalaparta,108,28
+steel-string acoustic guitar,108,96
+washtub bass,107,70
+electric upright bass,107,92
+cylindrical drum,106,91
+shekere,106,88
+barrel drum,106,73
+slide whistle,106,80
+sanxian,105,67
+domra,105,59
+bass recorder,105,67
+sanshin,105,66
+single reed,104,76
+end-blown flute,103,70
+pedal piano,103,36
+güira,102,51
+slit drum,102,76
+dutar,102,64
+dunun,102,40
+kamancheh,102,64
+singing bowl,100,73
+kannel,99,60
+junjung,99,57
+soprano clarinet,99,62
+gambang,98,62
+fipple flute,98,68
+mouth harp,97,87
+heckelphone,96,48
+taepyeongso,96,20
+esraj,96,80
+bell tree,95,88
+bass violin,94,64
+yueqin,93,23
+Irish bouzouki,93,59
+cümbüş,90,61
+archlute,89,58
+Chapman stick,88,80
+kanklės,87,35
+rudra veena,86,38
+soprano recorder,85,62
+rototom,84,59
+concert harp,83,65
+tarota,83,52
+octave mandolin,83,50
+Tonette,83,51
+electric viola,82,53
+komuz,82,31
+nose flute,82,61
+kenong,82,30
+diatonic button accordion,80,47
+liuqin,79,32
+bandora,79,49
+tenor recorder,79,57
+lirone,79,43
+tenor viol,78,54
+Paraguayan harp,78,36
+farfisa,78,73
+laúd,78,65
+oboe da caccia,78,39
+tenora,77,58
+Saraswati veena,77,51
+hydraulophone,77,21
+valiha,76,47
+dulcian,76,46
+zhongruan,76,13
+lithophone,75,46
+morin khuur,75,41
+laouto,74,36
+dilruba,74,47
+crwth,74,42
+plucked string instruments,72,66
+clavioline,72,44
+tamborim,72,34
+zhonghu,71,51
+chakhe,71,28
+contrabass saxophone,71,38
+dombra,71,47
+body percussion,71,52
+kempul,70,28
+bass oboe,69,38
+glass harp,69,44
+electric grand piano,68,55
+reyong,68,40
+xalam,68,40
+post horn,68,38
+waterphone,68,47
+cuíca,68,35
+Marxophone,67,47
+clapstick,67,42
+hardingfele,67,55
+Stroh violin,66,33
+kendang,65,43
+haegeum,65,31
+Northumbrian pipes,65,52
+Cretan lyra,65,39
+Reactable,65,22
+lyra viol,65,20
+viol consort,64,51
+bawu,63,46
+caxixi,63,44
+duggi,62,44
+chitra veena,59,28
+Scottish smallpipes,58,38
+kacapi,57,21
+rainstick,57,51
+daruan,57,25
+folk harp,57,46
+biniou,57,31
+pakhawaj,56,45
+Gravikord,56,18
+taonga pūoro,55,24
+olifant,55,40
+Cembalet,54,15
+hurdy gurdy,54,46
+geomungo,53,31
+stick zither,52,29
+zabumba,52,34
+jantar,52,40
+gaohu,51,32
+agogô,51,42
+gadulka,49,33
+jinghu,49,34
+viol family,49,23
+swarmandal,49,27
+hichiriki,47,30
+banjolin,45,29
+English concertina,45,27
+wire-strung harp,45,13
+kemenche,45,41
+flabiol,45,15
+viola caipira,44,33
+arpeggione,43,20
+violoncello piccolo,42,24
+bicycle bell,42,27
+struck idiophone,42,30
+txistu,42,21
+laser harp,42,22
+Batá drum,42,33
+oval spinet,42,7
+minipiano,42,3
+morsing,42,23
+diddley bow,42,20
+shruti box,42,24
+Pierrot ensemble,41,30
+guitar family,41,34
+arghul,41,28
+suikinkutsu,41,2
+daegeum,41,26
+bell plate,40,26
+mirliton,40,31
+launeddas,40,21
+gemshorn,40,25
+jouhikko,40,24
+bedug,39,22
+chromatic button accordion,39,23
+tubax,39,19
+afoxé,39,15
+ajaeng,39,21
+tenor violin,39,29
+tungso,38,31
+repinique,38,20
+fujara,38,23
+nyatiti,38,17
+saw sam sai,37,4
+cimbasso,37,27
+friction drum,37,28
+sopranino recorder,37,29
+Warr guitar,37,30
+banhu,36,30
+baglamas,36,26
+vessel flute,36,13
+treble viol,36,24
+ranat ek,36,14
+Guitaret,36,7
+percussion idiophone,36,35
+langeleik,35,16
+saluang,35,13
+trautonium,35,23
+yatga,35,20
+pipe and tabor,35,18
+khlui,35,10
+sopilka,35,26
+ukeke,35,24
+atabaque,35,19
+maddale,34,22
+vichitra veena,34,18
+xylorimba,34,25
+cornamuse,34,22
+shime-daiko,34,15
+marímbula,34,23
+alfaia,34,19
+baroque trumpet,33,17
+reco-reco,33,23
+kethuk,33,10
+quijada,33,25
+bowed lute,33,30
+alto viol,32,26
+mijwiz,32,16
+kkwaenggwari,32,17
+guitorgan,32,23
+hourglass drum,31,21
+bowed psaltery,31,18
+trikiti,30,18
+kempyang,30,10
+Anglo concertina,30,20
+dulcitone,30,23
+rauschpfeife,30,19
+kinnor,30,17
+Xaphoon,29,21
+tromba marina,29,18
+šargija,28,21
+daluo,28,26
+lira da braccio,28,21
+tangent piano,28,7
+electric lap steel guitar,28,21
+handpan,28,16
+buzuq,27,16
+willow flute,27,18
+foot stomps,27,24
+practice chanter,27,13
+frottoir,26,13
+bowed lyre,26,16
+gudok,26,11
+kokyu,26,18
+wind synthesizer,25,22
+violino piccolo,25,15
+calung,25,14
+dulzaina,25,17
+harpejji,25,9
+đàn bầu,25,21
+ganzá,25,17
+tonkori,24,7
+chirimía,24,10
+German concertina,24,7
+birbynė,24,6
+yonggo,24,18
+aeolian harp,24,20
+ravanahatha,24,7
+đàn tranh,24,13
+boobam,23,17
+pardessus de viole,23,13
+Mexican vihuela,23,15
+ranat thum,23,8
+luthéal,23,8
+octoban,23,15
+torupill,23,18
+säckpipa,23,14
+four-string banjo,23,18
+guitalele,23,13
+spinettone,22,6
+ondioline,22,19
+gong-chime,22,9
+orpharion,22,14
+ronroco,21,16
+kotsuzumi,21,13
+tiêu,21,19
+gankogui,21,8
+slenthem,21,12
+shinobue,21,21
+contrabass recorder,20,15
+concussion idiophone,19,18
+zhaleika,19,10
+sasando,19,8
+bombo legüero,19,16
+njarka,19,14
+Cristal Baschet,19,9
+lamellaphone,19,17
+chitarra battente,19,9
+khong wong,19,7
+ryuteki,19,9
+violin octet,18,11
+octobass,18,12
+paiban,18,11
+friction idiophone,18,17
+flumpet,18,13
+lavta,17,10
+octavina,17,11
+taragot,17,10
+electronic drum set,17,16
+telharmonium,16,13
+plucked idiophone,16,13
+lap harp,16,16
+gendèr,16,4
+dolceola,16,10
+tololoche,16,10
+craviola,15,8
+ti bwa,15,8
+piccolo oboe,15,11
+alto violin,15,11
+talharpa,15,10
+hyoshigi,15,6
+valved brass instruments,15,14
+treble flute,15,7
+diyingehu,15,9
+amadinda,15,4
+Schwyzerörgeli,15,6
+krakebs,14,10
+nose whistle,14,9
+Denis d'or,14,7
+hotchiku,14,5
+buisine,14,5
+samba whistle,14,7
+ocean drum,14,10
+banjitar,14,12
+claviola,14,12
+soprano flute,13,13
+dramyin,13,8
+bulbul tarang,13,13
+đàn nhị,13,9
+rhythm sticks,13,12
+zhuihu,13,7
+English flageolet,13,3
+bowed piano,12,9
+bugarija,12,7
+khong wong yai,12,5
+classical kemençe,12,8
+doshpuluur,12,8
+quadruple reed,12,4
+duxianqin,12,5
+đàn nguyệt,12,10
+nohkan,12,7
+kudüm,12,7
+pōrutu,11,7
+rōria,11,7
+mandoguitar,11,10
+đàn tỳ bà,11,7
+kōauau,11,4
+klong khaek,11,5
+guitarrón mexicano,11,10
+musette de cour,11,9
+żaqq,11,3
+Vietnamese guitar,11,9
+Mark tree,10,9
+ōtsuzumi,10,10
+kepyak,10,4
+Otamatone,9,6
+mukkuri,9,4
+pūtātara,9,8
+flutina,9,4
+viola organista,9,6
+chanzy,9,5
+saron barung,9,6
+gaita gallega,9,8
+đàn tam,9,9
+tubulum,8,2
+chime bar,8,8
+spilåpipa,8,4
+Blaster Beam,8,6
+naobo,8,6
+bonang barung,8,5
+gaita de boto,8,4
+phách,8,6
+mandolute,8,6
+bonang panerus,8,4
+violotta,8,6
+gong bass drum,7,4
+rondador,7,5
+chau gong,7,2
+kecer,7,4
+saw duang,7,6
+three-hole pipe,7,6
+spike-fiddle,7,7
+gaita asturiana,7,2
+guitarrón chileno,7,2
+Baltic psalteries,7,5
+monkey stick,7,5
+The Great Stalacpipe Organ,6,3
+flûte d'amour,6,6
+jegogan,6,2
+garifuna drum,6,1
+khong wong lek,6,4
+shaken idiophone,6,6
+slentho,6,3
+pi nai,6,3
+bisernica,6,3
+claviorganum,6,5
+saron panerus,6,5
+baroque rackett,6,1
+yoochin,5,4
+kortholt,5,3
+ghijak,5,4
+accordina,5,5
+härjedalspipa,5,4
+walaycho,5,4
+pemade,5,3
+lasso d'amore,5,5
+kemanak,5,3
+vibrandoneon,5,5
+jublag,5,2
+tumutumu,5,4
+ghaychak,5,4
+kèn bầu,5,2
+saduk,4,4
+garklein recorder,4,3
+wavedrum,4,3
+bhapang,4,4
+đàn tam thập lục,4,4
+scraped idiophone,4,3
+ģīga,4,4
+trumpet family,4,4
+đing buốt,4,1
+gajdy,4,4
+ranat kaeo,4,4
+kagurabue,4,4
+bronze lur,4,4
+doyra,4,4
+dulce melos,4,4
+game console sound chip,4,4
+qilaut,4,3
+gendèr barung,4,1
+banjo-ukulele,4,4
+pūtōrino,4,2
+sursingar,4,3
+saron demung,4,4
+kantilan,4,2
+boatswain's pipe,4,4
+table steel guitar,3,3
+pūrerehua,3,3
+đàn tứ,3,2
+akkordolia,3,3
+ki pah,3,3
+kacapi rincik,3,3
+baandu,3,3
+kacapi indung,3,3
+saron family,3,3
+struck string instruments,3,3
+sáo trúc,3,3
+cizhonghu,3,3
+17-string bass koto,3,3
+yaylı tanbur,3,3
+song loan,3,1
+soprano violin,3,3
+fundeh,3,3
+gaita sanabresa,3,2
+Dubreq Stylophone,3,3
+t'rưng,2,2
+saron peking,2,1
+pluriarc,2,2
+gendèr panerus,2,1
+xiaoluo,2,2
+viololyra,2,2
+gopichant,2,1
+satsuma biwa,2,2
+kendhang ketipung,2,2
+Indonesian rebab,2,1
+djoza,2,2
+gumbri,2,2
+taishogoto,2,2
+renaissance rackett,2,1
+bonang panembung,2,1
+kōauau ponga ihu,2,1
+klong yao,2,2
+porotiti,2,2
+melophone,2,2
+đing năm,2,1
+treble violin,2,2
+kendang wadon,2,1
+boomwhacker,2,1
+seni rebab,1,1
+kempli,1,1
+pahū,1,1
+atarigane,1,1
+lautenwerck,1,1
+shichepshin,1,1
+pātē,1,1
+chirimía and drum,1,1
+ngɔni,1,1
+te kū,1,1
+shudraga,1,1
+sênh tiền,1,1
+natural brass instruments,1,1
+żummara,1,1
+slide brass instruments,1,1
+acoustic fretless guitar,1,1
+ütőgardon,1,1
+chikuzen biwa,1,1
+marimba lumina,1,1
+gramorimba,1,1
+subcontrabass recorder,1,1
+cò ke,1,1
+k'lông pút,1,1
+çevgen,1,1
+topshuur,1,1
+klong that,1,1
+traditional basque ensemble,0,0
+hmông flute,0,0
+pūkaea,0,0
+kemençe of the Black Sea,0,0
+footbass,0,0
+jeli ngɔni,0,0
+algozey,0,0
+pūpakapaka,0,0
+gendèr wayang,0,0
+kamale ngɔni,0,0
+electric fretless guitar,0,0
+pí thiu,0,0
+chuurqin,0,0
+bin-sitar,0,0
+trống bông,0,0
+bin-sasara,0,0
+pkhachich,0,0
+pedal accordion,0,0
+Wiener Horn,0,0
+kèn lá,0,0
+elektronium,0,0
+tōkere,0,0
+donso ngɔni,0,0
+khèn Mèo,0,0
+bağlama (saz) family,0,0
+bouzar / gouzouki,0,0
+great bass recorder / c-bass recorder,0,0
+żafżafa,0,0
+keyed box zither,0,0
+saron wayang,0,0
+treble recorder / alto recorder,0,0
+birch lur,0,0
+trắng lu,0,0
+trắng jâu,0,0
+ankle rattlers,0,0
+jing'erhu,0,0
+Irish harp / clàrsach,0,0
+kacapi siter,0,0
+keyed brass instruments,0,0
+piano spinet,0,0
+poi āwhiowhio,0,0
+tenor horn / alto horn,0,0
+aman khuur,0,0
+sáo meò,0,0
+krap khū,0,0
+pahū pounamu,0,0
+Serbo-Croatian tamburica orchestra,0,0
+temür khuur,0,0
+tràm plè,0,0
+khulsan khuur,0,0
+octavilla,0,0
+tritantri veena,0,0
+drums (drum set),0,0
+hue puruwai,0,0
+bellowed reed,0,0
+hue puruhau,0,0
+mandora / gallichon,0,0
+kendhang kulanter,0,0
+kendhang wayangan,0,0
+krap phuang,0,0
+ding tac ta,0,0
+kachva sitar,0,0
+tanbou ka,0,0
+krap sēphā,0,0
+heike biwa,0,0
+pang gu ly hu hmông,0,0
+Tibetan water drum,0,0
+kendang lanang,0,0
+kendhang batangan,0,0
+kendhang gendhing,0,0
+kendhang indung,0,0
+klong song na,0,0
+pākuru,0,0
+pūmotomoto,0,0
+oktawka,0,0
+đàn tứ dây,0,0
+nagadou-daiko,0,0
