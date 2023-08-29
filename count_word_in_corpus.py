@@ -12,7 +12,7 @@ import ahocorasick
 def main():
     """
     Usage:
-        $ python count_word_in_corpus.py -i <path_to_targets_json_file> -o <path_to_save_output_csv> [-c <path_to_corpus_file>]
+        $ python count_word_in_corpus.py -i <path_to_targets_json_file> -o <path_to_save_output_csv> -c <path_to_corpus_file>
 
     Arguments:
         -i, --input_dir          : Path to the JSON file containing the list of targets.
@@ -25,7 +25,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("-i", "--input_json_name", required = True, help = "Path to the directory of the target json file")
     parser.add_argument("-o", "--output_csv_name", required = True, help = "Path to the directory to save the result")
-    parser.add_argument("-c", "--corpus_dir", default = None, help = "Path to the corpus file")
+    parser.add_argument("-c", "--corpus_dir", required = True, help = "Path to the corpus file")
     args = parser.parse_args()
 
     # input dir
@@ -34,13 +34,13 @@ def main():
     assert input_json_name.endswith('.json') or input_json_name.endswith('.jsonl'),\
         f'Input file should be json or jsonl'
 
-    # corpus dir
-    corpus_dir = args.corpus_dir if args.corpus_dir else 'dataset/music_corpus.jsonl'
-    assert os.path.exists(corpus_dir), f'corpus dir {corpus_dir} does not exist'
-
     # output dir
     output_csv_name = args.output_csv_name
     assert output_csv_name.endswith('.csv'), f'Output file name should end with .csv'
+
+    # corpus dir
+    corpus_dir = args.corpus_dir
+    assert os.path.exists(corpus_dir), f'corpus dir {corpus_dir} does not exist'
 
     # Get json file containing target
     # TODO(minigb): This assumes that it is a json file
