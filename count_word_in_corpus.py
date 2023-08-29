@@ -62,7 +62,7 @@ def main():
         A.add_word(target, target)
     A.make_automaton()
 
-    total_count = {target : 0 for target in target_list}
+    frequency = {target : 0 for target in target_list}
     n_of_docs = {target : 0 for target in target_list}
 
     for text in tqdm(corpus_text_list):
@@ -70,16 +70,16 @@ def main():
         for _, target in A.iter(text):
             target_count_in_this_text[target] += 1
         for target, count in target_count_in_this_text.items():
-            total_count[target] += count
+            frequency[target] += count
             n_of_docs[target] += 1
 
     result_df = pd.DataFrame({
-        'target': list(total_count.keys()),
-        'total_count': list(total_count.values()),
-        'num_of_documents': list(n_of_docs.values())
+        'target': list(frequency.keys()),
+        'frequency': list(frequency.values()),
+        'number': list(n_of_docs.values())
     })
     
-    result_df.sort_values(by = 'total_count', ascending = False, inplace = True)
+    result_df.sort_values(by = 'frequency', ascending = False, inplace = True)
     result_df.set_index('target', inplace = True)
     result_df.to_csv(args.output_csv_name)
 
