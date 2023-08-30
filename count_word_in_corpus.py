@@ -76,7 +76,7 @@ def main():
     result_df = pd.DataFrame({
         'target': list(frequency.keys()),
         'frequency': list(frequency.values()),
-        'number': list(n_of_docs.values())
+        'num_of_docs_occured': list(n_of_docs.values())
     })
     
     result_df.sort_values(by = 'frequency', ascending = False, inplace = True)
